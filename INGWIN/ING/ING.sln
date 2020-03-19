@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ING", "ING\ING.csproj", "{A9469D97-EB01-4E03-A9FE-47F275CF3E21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptLibraryING", "CryptLibraryING\CryptLibraryING.csproj", "{E1BAA87F-B4D6-43E8-AE33-D015B8EC8046}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A9469D97-EB01-4E03-A9FE-47F275CF3E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9469D97-EB01-4E03-A9FE-47F275CF3E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9469D97-EB01-4E03-A9FE-47F275CF3E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BAA87F-B4D6-43E8-AE33-D015B8EC8046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BAA87F-B4D6-43E8-AE33-D015B8EC8046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BAA87F-B4D6-43E8-AE33-D015B8EC8046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BAA87F-B4D6-43E8-AE33-D015B8EC8046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

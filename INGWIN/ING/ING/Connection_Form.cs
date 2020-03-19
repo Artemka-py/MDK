@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using CryptLibraryING;
 
 namespace ING
 {
@@ -16,6 +17,9 @@ namespace ING
         public Connection_Form()
         {
             InitializeComponent();
+            Configuration_class configuration = new Configuration_class();
+            Table_Class table = new Table_Class("asd");
+            Procedure_CLass procedure = new Procedure_CLass();
         }
 
         private void Connection_Form_Load(object sender, EventArgs e)
